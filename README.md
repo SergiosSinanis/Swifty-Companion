@@ -113,3 +113,30 @@ Swifty Companion is developed as an individual project at 42 École, showcasing 
 flutter pub get
 flutter run
 ```
+
+## Development & Debugging
+
+The application includes development logging and error handling for:
+
+- OAuth2 token acquisition
+- API requests and responses
+- HTTP status codes
+- Network connectivity issues
+- Request timeouts
+- JSON parsing
+- Invalid student logins
+- API authentication errors
+
+## Security Considerations
+
+- API UID and SECRET are not committed to the repository
+- Sensitive configuration is stored outside the application source code
+- API credentials are excluded through `.gitignore`
+- OAuth2 access tokens are reused instead of requesting a new token for every query
+- API requests use authenticated HTTPS communication
+
+## Implementation Notes
+
+This implementation focuses on educational purposes and demonstrates professional mobile application development using Dart and Flutter. The project emphasizes practical understanding of Flutter application architecture, REST API communication, OAuth2 authentication, asynchronous programming, responsive UI design, JSON data processing, and robust error handling.
+
+The application uses the 42 API as its primary data source and follows the API's OAuth2 authentication requirements to securely retrieve student information.
