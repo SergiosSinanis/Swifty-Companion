@@ -161,7 +161,9 @@ The application uses the 42 API as its primary data source and follows the API's
 
 ## Presentation Demo
 
-https://github.com/user-attachments/assets/2c717042-0e14-416a-863f-d2e805b65174
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/2c717042-0e14-416a-863f-d2e805b65174" controls width="600"></video>
+</p>
 
 ## Screenshots
 
