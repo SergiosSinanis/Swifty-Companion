@@ -55,6 +55,12 @@ Swifty Companion is developed as an individual project by me at 42 Paris École,
 - Skill Percentages: Display the progression percentage for each skill
 - Scrollable Interface: Navigate through the complete skill list
 
+### Presentation Demo
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/2c717042-0e14-416a-863f-d2e805b65174" controls width="600"></video>
+</p>
+
 ### Responsive Mobile Interface
 
 - Responsive Layout: Adapt the interface to different screen sizes
@@ -158,12 +164,6 @@ The application includes development logging and error handling for:
 This implementation focuses on educational purposes and demonstrates professional mobile application development using Dart and Flutter. The project emphasizes practical understanding of Flutter application architecture, REST API communication, OAuth2 authentication, asynchronous programming, responsive UI design, JSON data processing, and robust error handling.
 
 The application uses the 42 API as its primary data source and follows the API's OAuth2 authentication requirements to securely retrieve student information.
-
-## Presentation Demo
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/2c717042-0e14-416a-863f-d2e805b65174" controls width="600"></video>
-</p>
 
 ## Screenshots
 
