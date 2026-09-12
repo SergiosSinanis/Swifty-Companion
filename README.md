@@ -1,4 +1,6 @@
-<img width="507" height="366" alt="Screenshot" src="https://github.com/user-attachments/assets/dc2f52a0-ea23-4627-9d23-fe0cdd7b957a" />
+<p align="center">
+  <img width="507" height="366" alt="Screenshot" src="https://github.com/user-attachments/assets/dc2f52a0-ea23-4627-9d23-fe0cdd7b957a">
+</p>
 
 # Swifty-Companion
 
