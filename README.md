@@ -4,7 +4,7 @@ A mobile application built with Flutter and Dart that allows 42 students to sear
 
 ## Authors
 
-Swifty Companion is developed as an individual project at 42 Paris École, showcasing understanding of mobile application development with Flutter and Dart, RESTful API integration, OAuth2 authentication, asynchronous programming, and responsive user interface design.
+Swifty Companion is developed as an individual project by me at 42 Paris École, showcasing understanding of mobile application development with Flutter and Dart, RESTful API integration, OAuth2 authentication, asynchronous programming, and responsive user interface design.
 
 ## Key Features
 
@@ -105,14 +105,31 @@ Swifty Companion is developed as an individual project at 42 Paris École, showc
 8. The existing OAuth2 token is reused for subsequent API requests
 9. A new token is obtained only when the current token expires
 
+## Configuration
+
+The application requires 42 API credentials to authenticate with the 42 API.
+
+Create a `.env` file in the root of the `src` directory and add the API credentials obtained through the 42 Intranet:
+
+```env
+UID=XXXX
+SECRET=XXXX
+```
+
+Replace `XXXX` with the corresponding UID and SECRET provided by the 42 API application.
+
+The `.env` file contains sensitive credentials and must not be committed to the repository.
+
 ## Usage Examples
 
-### Application initialization
+### Application Initialization
 
 ```bash
 flutter pub get
 flutter run
 ```
+
+Before launching the application, make sure the required `.env` file is present in the root of the `src` directory and contains valid 42 API credentials.
 
 ## Development & Debugging
 
@@ -130,8 +147,9 @@ The application includes development logging and error handling for:
 ## Security Considerations
 
 - API UID and SECRET are not committed to the repository
-- Sensitive configuration is stored outside the application source code
-- API credentials are excluded through `.gitignore`
+- Sensitive credentials are stored in the `.env` file outside the application source code
+- The `.env` file is excluded through `.gitignore`
+- API credentials are obtained through the 42 Intranet
 - OAuth2 access tokens are reused instead of requesting a new token for every query
 - API requests use authenticated HTTPS communication
 
@@ -140,3 +158,16 @@ The application includes development logging and error handling for:
 This implementation focuses on educational purposes and demonstrates professional mobile application development using Dart and Flutter. The project emphasizes practical understanding of Flutter application architecture, REST API communication, OAuth2 authentication, asynchronous programming, responsive UI design, JSON data processing, and robust error handling.
 
 The application uses the 42 API as its primary data source and follows the API's OAuth2 authentication requirements to securely retrieve student information.
+
+## Presentation Demo
+
+https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/home.png" width="250">
+  <img src="assets/profile.png" width="250">
+  <img src="assets/projects.png" width="250">
+  <img src="assets/skills.png" width="250">
+</p>
