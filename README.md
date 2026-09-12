@@ -1,4 +1,4 @@
-<img width="325" height="618" alt="Screenshot" src="https://github.com/user-attachments/assets/a9227155-f329-4465-8066-3e3e8a13b2c8" />
+<img width="507" height="366" alt="Screenshot" src="https://github.com/user-attachments/assets/dc2f52a0-ea23-4627-9d23-fe0cdd7b957a" />
 
 # Swifty-Companion
 
