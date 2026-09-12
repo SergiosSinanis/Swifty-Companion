@@ -55,12 +55,6 @@ Swifty Companion is developed as an individual project by me at 42 Paris École,
 - Skill Percentages: Display the progression percentage for each skill
 - Scrollable Interface: Navigate through the complete skill list
 
-### Presentation Demo
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/2c717042-0e14-416a-863f-d2e805b65174" controls width="600"></video>
-</p>
-
 ### Responsive Mobile Interface
 
 - Responsive Layout: Adapt the interface to different screen sizes
@@ -79,6 +73,12 @@ Swifty Companion is developed as an individual project by me at 42 Paris École,
 - Authentication Errors: Handle OAuth2 token acquisition failures
 - API Errors: Gracefully handle unexpected API responses
 - User Feedback: Display appropriate error messages without crashing the application
+
+## Presentation Demo
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/2c717042-0e14-416a-863f-d2e805b65174" controls width="600"></video>
+</p>
 
 ## Application Architecture
 
