@@ -4,7 +4,7 @@ A mobile application built with Flutter and Dart that allows 42 students to sear
 
 ## Authors
 
-Swifty Companion is developed as an individual project at 42 École, showcasing understanding of mobile application development with Flutter and Dart, RESTful API integration, OAuth2 authentication, asynchronous programming, and responsive user interface design.
+Swifty Companion is developed as an individual project at 42 Paris École, showcasing understanding of mobile application development with Flutter and Dart, RESTful API integration, OAuth2 authentication, asynchronous programming, and responsive user interface design.
 
 ## Key Features
 
