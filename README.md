@@ -1,3 +1,5 @@
+<img width="325" height="618" alt="Screenshot" src="https://github.com/user-attachments/assets/a9227155-f329-4465-8066-3e3e8a13b2c8" />
+
 # Swifty-Companion
 
 A mobile application built with Flutter and Dart that allows 42 students to search for other students using their 42 login and view their profile, project history, and skills through the 42 API. This project demonstrates mobile application development, REST API integration, OAuth2 authentication, responsive UI design, and asynchronous network programming.
@@ -164,12 +166,3 @@ The application includes development logging and error handling for:
 This implementation focuses on educational purposes and demonstrates professional mobile application development using Dart and Flutter. The project emphasizes practical understanding of Flutter application architecture, REST API communication, OAuth2 authentication, asynchronous programming, responsive UI design, JSON data processing, and robust error handling.
 
 The application uses the 42 API as its primary data source and follows the API's OAuth2 authentication requirements to securely retrieve student information.
-
-## Screenshots
-
-<p align="center">
-  <img src="assets/home.png" width="250">
-  <img src="assets/profile.png" width="250">
-  <img src="assets/projects.png" width="250">
-  <img src="assets/skills.png" width="250">
-</p>
