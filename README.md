@@ -80,9 +80,7 @@ Swifty Companion is developed as an individual project by me at 42 Paris École,
 
 ## Presentation Demo
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/2c717042-0e14-416a-863f-d2e805b65174" controls width="600"></video>
-</p>
+https://github.com/user-attachments/assets/2c717042-0e14-416a-863f-d2e805b65174
 
 ## Application Architecture
 
