@@ -161,7 +161,7 @@ The application uses the 42 API as its primary data source and follows the API's
 
 ## Presentation Demo
 
-https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+![Swifty Companion Demo](assets/demo.mp4)
 
 ## Screenshots
 
